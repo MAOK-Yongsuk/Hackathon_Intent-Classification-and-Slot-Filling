@@ -4,7 +4,7 @@ Kaggle: https://www.kaggle.com/competitions/hackathon-online-nlu-slot-filling
 
 Kaggle: https://www.kaggle.com/competitions/hackathon-online-nlu-intent-classification
 
-### Assess yourself for this round of competition.
+### Assess myself for this round of competition.
 
 | 💚  | 💛 | ❤️ |
 | --- | --- | --- |
